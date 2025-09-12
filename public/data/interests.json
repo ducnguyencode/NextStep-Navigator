@@ -1,0 +1,44 @@
+{
+  "interests": [
+    {
+      "id": "technology",
+      "name": "Technology & Computing",
+      "description": "Programming, AI, cybersecurity, software development"
+    },
+    {
+      "id": "healthcare",
+      "name": "Healthcare & Medicine",
+      "description": "Medical practice, nursing, pharmacy, research"
+    },
+    {
+      "id": "business",
+      "name": "Business & Finance",
+      "description": "Management, accounting, marketing, entrepreneurship"
+    },
+    {
+      "id": "engineering",
+      "name": "Engineering",
+      "description": "Mechanical, civil, electrical, chemical engineering"
+    },
+    {
+      "id": "arts",
+      "name": "Arts & Design",
+      "description": "Graphic design, fine arts, music, creative writing"
+    },
+    {
+      "id": "science",
+      "name": "Science & Research",
+      "description": "Biology, chemistry, physics, environmental science"
+    },
+    {
+      "id": "education",
+      "name": "Education & Teaching",
+      "description": "Teaching, training, educational administration"
+    },
+    {
+      "id": "social",
+      "name": "Social Sciences",
+      "description": "Psychology, sociology, social work, counseling"
+    }
+  ]
+}

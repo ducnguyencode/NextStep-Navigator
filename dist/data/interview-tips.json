@@ -1,0 +1,157 @@
+{
+  "title": "Interview Tips for Graduates and Professionals",
+  "description": "Comprehensive guide to excel in job interviews and advance your career",
+  "sections": [
+    {
+      "id": "preparation",
+      "title": "Interview Preparation",
+      "tips": [
+        {
+          "category": "Research",
+          "title": "Company Research",
+          "description": "Thoroughly research the company, role, and industry",
+          "details": [
+            "Study company website, mission, and values",
+            "Research recent news and developments",
+            "Understand the job description and requirements",
+            "Know the company's competitors and market position",
+            "Research the interviewer's background on LinkedIn"
+          ]
+        },
+        {
+          "category": "Technical",
+          "title": "Technical Preparation",
+          "description": "Prepare for technical questions and assessments",
+          "details": [
+            "Review fundamental concepts in your field",
+            "Practice coding problems (for tech roles)",
+            "Prepare case studies (for consulting/business roles)",
+            "Update knowledge of latest industry trends",
+            "Practice technical presentations if required"
+          ]
+        },
+        {
+          "category": "Behavioral",
+          "title": "Behavioral Questions",
+          "description": "Prepare STAR method responses for common questions",
+          "details": [
+            "Tell me about yourself",
+            "Why do you want this job?",
+            "Describe a challenging situation you handled",
+            "What are your strengths and weaknesses?",
+            "Where do you see yourself in 5 years?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "during",
+      "title": "During the Interview",
+      "tips": [
+        {
+          "category": "Communication",
+          "title": "Effective Communication",
+          "description": "Communicate clearly and confidently",
+          "details": [
+            "Maintain eye contact and good posture",
+            "Speak clearly and at appropriate pace",
+            "Listen actively to questions",
+            "Ask clarifying questions if needed",
+            "Use specific examples to support your answers"
+          ]
+        },
+        {
+          "category": "Presentation",
+          "title": "Professional Presentation",
+          "description": "Present yourself professionally",
+          "details": [
+            "Dress appropriately for the company culture",
+            "Arrive 10-15 minutes early",
+            "Bring multiple copies of your resume",
+            "Turn off mobile phone",
+            "Show enthusiasm and genuine interest"
+          ]
+        },
+        {
+          "category": "Questions",
+          "title": "Asking Questions",
+          "description": "Prepare thoughtful questions to ask the interviewer",
+          "details": [
+            "What does success look like in this role?",
+            "What are the biggest challenges facing the team?",
+            "How does the company support professional development?",
+            "What is the company culture like?",
+            "What are the next steps in the process?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "types",
+      "title": "Interview Types",
+      "formats": [
+        {
+          "type": "Phone/Video Interview",
+          "description": "Initial screening or remote interview",
+          "tips": [
+            "Test technology beforehand",
+            "Choose a quiet, well-lit location",
+            "Have your resume and notes ready",
+            "Maintain eye contact with camera",
+            "Speak clearly and avoid interruptions"
+          ]
+        },
+        {
+          "type": "Panel Interview",
+          "description": "Interview with multiple interviewers",
+          "tips": [
+            "Address all panel members",
+            "Make eye contact with each person",
+            "Ask for names and roles at the beginning",
+            "Direct answers to the person who asked",
+            "Thank each panel member at the end"
+          ]
+        },
+        {
+          "type": "Technical Interview",
+          "description": "Assessment of technical skills and knowledge",
+          "tips": [
+            "Think out loud while solving problems",
+            "Ask clarifying questions",
+            "Explain your approach step by step",
+            "Test your solution if possible",
+            "Discuss alternative approaches"
+          ]
+        },
+        {
+          "type": "Case Interview",
+          "description": "Problem-solving assessment for consulting roles",
+          "tips": [
+            "Structure your approach clearly",
+            "Ask relevant questions to gather information",
+            "Make reasonable assumptions",
+            "Quantify your analysis where possible",
+            "Summarize your recommendations"
+          ]
+        }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Arriving late or too early (more than 15 minutes)",
+    "Not researching the company thoroughly",
+    "Speaking negatively about previous employers",
+    "Failing to prepare questions to ask",
+    "Not following up after the interview",
+    "Being too casual or overly formal",
+    "Not providing specific examples",
+    "Interrupting the interviewer"
+  ],
+  "followUp": [
+    "Send a thank-you email within 24 hours",
+    "Reiterate your interest in the position",
+    "Address any concerns raised during the interview",
+    "Provide additional information if requested",
+    "Follow up politely if you don't hear back within the stated timeframe"
+  ]
+}

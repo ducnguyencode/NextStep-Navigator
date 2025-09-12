@@ -1,0 +1,223 @@
+{
+  "technology": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "What excites you most about technology?",
+        "options": [
+          { "text": "Creating mobile apps and websites", "weight": { "software": 3, "web": 3, "mobile": 3 } },
+          { "text": "Analyzing data and finding patterns", "weight": { "data": 3, "ai": 2, "analytics": 3 } },
+          { "text": "Protecting systems from cyber threats", "weight": { "cybersecurity": 3, "networking": 2 } },
+          { "text": "Building AI and machine learning models", "weight": { "ai": 3, "data": 2, "research": 2 } }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Which work environment appeals to you?",
+        "options": [
+          { "text": "Startup with cutting-edge projects", "weight": { "software": 2, "ai": 2, "mobile": 2 } },
+          { "text": "Large tech company with resources", "weight": { "software": 3, "data": 2, "web": 2 } },
+          { "text": "Government or security agencies", "weight": { "cybersecurity": 3, "networking": 2 } },
+          { "text": "Research institutions or universities", "weight": { "ai": 3, "research": 3, "data": 2 } }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "What type of problems do you enjoy solving?",
+        "options": [
+          { "text": "User experience and interface design", "weight": { "web": 3, "mobile": 2, "software": 2 } },
+          { "text": "Complex algorithms and optimization", "weight": { "ai": 3, "data": 3, "software": 2 } },
+          { "text": "Security vulnerabilities and threats", "weight": { "cybersecurity": 3, "networking": 2 } },
+          { "text": "System architecture and scalability", "weight": { "software": 3, "networking": 2, "data": 2 } }
+        ]
+      }
+    ],
+    "streams": {
+      "software": {
+        "name": "Software Engineering",
+        "description": "Design and develop software applications, systems, and platforms",
+        "careers": ["Software Developer", "Full Stack Engineer", "DevOps Engineer", "Software Architect"],
+        "education": ["Computer Science", "Software Engineering", "Information Technology"],
+        "skills": ["Programming Languages", "System Design", "Problem Solving", "Version Control"]
+      },
+      "data": {
+        "name": "Data Science & Analytics",
+        "description": "Extract insights from data to drive business decisions",
+        "careers": ["Data Scientist", "Data Analyst", "Business Intelligence Analyst", "Data Engineer"],
+        "education": ["Data Science", "Statistics", "Computer Science", "Mathematics"],
+        "skills": ["Python/R", "SQL", "Machine Learning", "Data Visualization"]
+      },
+      "ai": {
+        "name": "Artificial Intelligence",
+        "description": "Develop intelligent systems and machine learning models",
+        "careers": ["AI Engineer", "Machine Learning Engineer", "Research Scientist", "AI Product Manager"],
+        "education": ["Computer Science", "AI/ML", "Mathematics", "Cognitive Science"],
+        "skills": ["Deep Learning", "Neural Networks", "Python", "Research Methods"]
+      },
+      "cybersecurity": {
+        "name": "Cybersecurity",
+        "description": "Protect digital assets and systems from security threats",
+        "careers": ["Security Analyst", "Ethical Hacker", "Security Consultant", "CISO"],
+        "education": ["Cybersecurity", "Computer Science", "Information Security"],
+        "skills": ["Network Security", "Penetration Testing", "Risk Assessment", "Compliance"]
+      },
+      "web": {
+        "name": "Web Development",
+        "description": "Create and maintain websites and web applications",
+        "careers": ["Frontend Developer", "Backend Developer", "Web Designer", "UX/UI Developer"],
+        "education": ["Web Development", "Computer Science", "Digital Design"],
+        "skills": ["HTML/CSS/JavaScript", "Frameworks", "Responsive Design", "APIs"]
+      },
+      "mobile": {
+        "name": "Mobile Development",
+        "description": "Build applications for mobile devices and platforms",
+        "careers": ["Mobile App Developer", "iOS Developer", "Android Developer", "Cross-platform Developer"],
+        "education": ["Mobile Development", "Computer Science", "Software Engineering"],
+        "skills": ["Swift/Kotlin", "React Native/Flutter", "Mobile UI/UX", "App Store Optimization"]
+      }
+    }
+  },
+  "healthcare": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "What aspect of healthcare interests you most?",
+        "options": [
+          { "text": "Direct patient care and treatment", "weight": { "medicine": 3, "nursing": 3, "therapy": 2 } },
+          { "text": "Medical research and drug development", "weight": { "research": 3, "pharmacy": 2, "biotech": 3 } },
+          { "text": "Mental health and counseling", "weight": { "psychology": 3, "therapy": 3, "counseling": 3 } },
+          {
+            "text": "Healthcare technology and innovation",
+            "weight": { "healthtech": 3, "biomedical": 2, "research": 2 }
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Which work setting appeals to you?",
+        "options": [
+          { "text": "Hospitals and clinical environments", "weight": { "medicine": 3, "nursing": 3, "therapy": 2 } },
+          { "text": "Research laboratories", "weight": { "research": 3, "pharmacy": 2, "biotech": 3 } },
+          {
+            "text": "Private practice or counseling centers",
+            "weight": { "psychology": 3, "therapy": 2, "counseling": 3 }
+          },
+          { "text": "Tech companies or startups", "weight": { "healthtech": 3, "biomedical": 2 } }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "What motivates you most?",
+        "options": [
+          { "text": "Helping people recover from illness", "weight": { "medicine": 3, "nursing": 2, "therapy": 3 } },
+          { "text": "Discovering new treatments", "weight": { "research": 3, "pharmacy": 3, "biotech": 2 } },
+          { "text": "Supporting mental wellness", "weight": { "psychology": 3, "counseling": 3, "therapy": 2 } },
+          { "text": "Improving healthcare systems", "weight": { "healthtech": 3, "biomedical": 2, "research": 2 } }
+        ]
+      }
+    ],
+    "streams": {
+      "medicine": {
+        "name": "Medicine",
+        "description": "Diagnose, treat, and prevent diseases and injuries",
+        "careers": ["Doctor", "Surgeon", "Specialist Physician", "Emergency Medicine"],
+        "education": ["MBBS", "MD", "Medical Specialization"],
+        "skills": ["Clinical Skills", "Diagnosis", "Patient Care", "Medical Knowledge"]
+      },
+      "nursing": {
+        "name": "Nursing",
+        "description": "Provide patient care and support in various healthcare settings",
+        "careers": ["Registered Nurse", "Nurse Practitioner", "Specialized Nurse", "Nurse Manager"],
+        "education": ["BSc Nursing", "MSc Nursing", "Nursing Diploma"],
+        "skills": ["Patient Care", "Clinical Assessment", "Communication", "Emergency Response"]
+      },
+      "pharmacy": {
+        "name": "Pharmacy",
+        "description": "Dispense medications and provide pharmaceutical care",
+        "careers": ["Pharmacist", "Clinical Pharmacist", "Research Pharmacist", "Pharmaceutical Scientist"],
+        "education": ["PharmD", "B.Pharmacy", "M.Pharmacy"],
+        "skills": ["Drug Knowledge", "Patient Counseling", "Clinical Analysis", "Research"]
+      },
+      "psychology": {
+        "name": "Psychology",
+        "description": "Study and treat mental health and behavioral issues",
+        "careers": ["Clinical Psychologist", "Counseling Psychologist", "Research Psychologist", "Therapist"],
+        "education": ["Psychology", "Clinical Psychology", "Counseling Psychology"],
+        "skills": ["Assessment", "Therapy Techniques", "Research", "Communication"]
+      }
+    }
+  },
+  "business": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "What business area excites you most?",
+        "options": [
+          { "text": "Marketing and brand building", "weight": { "marketing": 3, "digital": 2, "brand": 3 } },
+          { "text": "Financial analysis and investment", "weight": { "finance": 3, "investment": 3, "analytics": 2 } },
+          { "text": "Leading teams and operations", "weight": { "management": 3, "operations": 3, "leadership": 2 } },
+          { "text": "Starting your own business", "weight": { "entrepreneurship": 3, "startup": 3, "innovation": 2 } }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Which work environment suits you?",
+        "options": [
+          { "text": "Creative agencies and media companies", "weight": { "marketing": 3, "digital": 3, "brand": 2 } },
+          { "text": "Banks and financial institutions", "weight": { "finance": 3, "investment": 2, "analytics": 2 } },
+          {
+            "text": "Large corporations and consulting firms",
+            "weight": { "management": 3, "operations": 2, "leadership": 3 }
+          },
+          { "text": "Startups and innovation hubs", "weight": { "entrepreneurship": 3, "startup": 3, "innovation": 3 } }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "What drives your decision-making?",
+        "options": [
+          { "text": "Consumer behavior and market trends", "weight": { "marketing": 3, "digital": 2, "analytics": 2 } },
+          { "text": "Financial data and risk analysis", "weight": { "finance": 3, "investment": 3, "analytics": 3 } },
+          {
+            "text": "Efficiency and team performance",
+            "weight": { "management": 3, "operations": 3, "leadership": 2 }
+          },
+          {
+            "text": "Innovation and market opportunities",
+            "weight": { "entrepreneurship": 3, "startup": 2, "innovation": 3 }
+          }
+        ]
+      }
+    ],
+    "streams": {
+      "marketing": {
+        "name": "Marketing & Communications",
+        "description": "Promote products and build brand awareness",
+        "careers": ["Marketing Manager", "Brand Manager", "Content Strategist", "PR Specialist"],
+        "education": ["Marketing", "Communications", "Business Administration"],
+        "skills": ["Digital Marketing", "Brand Strategy", "Content Creation", "Analytics"]
+      },
+      "finance": {
+        "name": "Finance & Investment",
+        "description": "Manage financial resources and investment strategies",
+        "careers": ["Financial Analyst", "Investment Banker", "Portfolio Manager", "Financial Advisor"],
+        "education": ["Finance", "Economics", "Accounting", "MBA"],
+        "skills": ["Financial Analysis", "Risk Management", "Investment Strategy", "Excel/Modeling"]
+      },
+      "management": {
+        "name": "Management & Leadership",
+        "description": "Lead teams and drive organizational success",
+        "careers": ["Project Manager", "Operations Manager", "General Manager", "CEO"],
+        "education": ["Business Administration", "Management", "MBA"],
+        "skills": ["Leadership", "Strategic Planning", "Team Management", "Decision Making"]
+      },
+      "entrepreneurship": {
+        "name": "Entrepreneurship",
+        "description": "Start and grow your own business ventures",
+        "careers": ["Founder/CEO", "Business Owner", "Startup Consultant", "Innovation Manager"],
+        "education": ["Entrepreneurship", "Business", "MBA", "Industry-specific"],
+        "skills": ["Business Planning", "Innovation", "Risk Taking", "Networking"]
+      }
+    }
+  }
+}

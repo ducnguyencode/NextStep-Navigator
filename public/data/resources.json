@@ -1,0 +1,154 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "10 Essential Skills for Career Success in 2024",
+      "description": "Discover the most in-demand skills that employers are looking for and how to develop them effectively.",
+      "link": "https://example.com/career-skills-2024",
+      "author": "Sarah Johnson",
+      "readTime": "8 min read",
+      "tags": ["Skills", "Career Development", "Professional Growth"]
+    },
+    {
+      "id": 2,
+      "title": "How to Network Effectively in the Digital Age",
+      "description": "Master the art of professional networking both online and offline to accelerate your career growth.",
+      "link": "https://example.com/digital-networking",
+      "author": "Michael Chen",
+      "readTime": "6 min read",
+      "tags": ["Networking", "Professional Development", "Career Tips"]
+    },
+    {
+      "id": 3,
+      "title": "Transitioning Careers: A Complete Guide",
+      "description": "Step-by-step strategies for successfully changing careers, including timeline and preparation tips.",
+      "link": "https://example.com/career-transition-guide",
+      "author": "Emily Rodriguez",
+      "readTime": "12 min read",
+      "tags": ["Career Change", "Professional Growth", "Strategy"]
+    },
+    {
+      "id": 4,
+      "title": "Building Your Personal Brand Online",
+      "description": "Learn how to create a compelling professional presence across digital platforms.",
+      "link": "https://example.com/personal-branding",
+      "author": "David Kim",
+      "readTime": "10 min read",
+      "tags": ["Personal Branding", "Online Presence", "Career Marketing"]
+    }
+  ],
+  "ebooks": [
+    {
+      "id": 1,
+      "title": "The Complete Guide to Remote Work Success",
+      "description": "A comprehensive 50-page guide covering everything from setting up your home office to managing remote teams.",
+      "link": "https://example.com/remote-work-ebook.pdf",
+      "author": "Remote Work Institute",
+      "pages": "50 pages",
+      "tags": ["Remote Work", "Productivity", "Work-Life Balance"]
+    },
+    {
+      "id": 2,
+      "title": "Mastering the Art of Salary Negotiation",
+      "description": "Learn proven strategies and scripts for negotiating better compensation packages throughout your career.",
+      "link": "https://example.com/salary-negotiation-ebook.pdf",
+      "author": "Career Advancement Academy",
+      "pages": "35 pages",
+      "tags": ["Salary Negotiation", "Career Advancement", "Professional Skills"]
+    },
+    {
+      "id": 3,
+      "title": "Leadership in the Modern Workplace",
+      "description": "Develop essential leadership skills for the evolving workplace, including remote team management.",
+      "link": "https://example.com/modern-leadership-ebook.pdf",
+      "author": "Leadership Excellence Group",
+      "pages": "65 pages",
+      "tags": ["Leadership", "Management", "Team Building"]
+    },
+    {
+      "id": 4,
+      "title": "Digital Skills for Career Growth",
+      "description": "Master the digital tools and technologies that are essential for career advancement in any field.",
+      "link": "https://example.com/digital-skills-ebook.pdf",
+      "author": "Tech Career Institute",
+      "pages": "42 pages",
+      "tags": ["Digital Skills", "Technology", "Career Development"]
+    }
+  ],
+  "checklists": [
+    {
+      "id": 1,
+      "title": "Job Interview Preparation Checklist",
+      "description": "A comprehensive 25-point checklist to ensure you're fully prepared for any job interview.",
+      "link": "https://example.com/interview-prep-checklist.pdf",
+      "items": "25 items",
+      "tags": ["Interview Prep", "Job Search", "Career Tips"]
+    },
+    {
+      "id": 2,
+      "title": "First 90 Days in a New Job",
+      "description": "Essential tasks and milestones to set yourself up for success in your new role.",
+      "link": "https://example.com/first-90-days-checklist.pdf",
+      "items": "18 items",
+      "tags": ["New Job", "Career Success", "Professional Development"]
+    },
+    {
+      "id": 3,
+      "title": "Annual Career Review Checklist",
+      "description": "Evaluate your career progress and plan for the year ahead with this comprehensive review guide.",
+      "link": "https://example.com/career-review-checklist.pdf",
+      "items": "22 items",
+      "tags": ["Career Planning", "Self Assessment", "Goal Setting"]
+    },
+    {
+      "id": 4,
+      "title": "LinkedIn Profile Optimization",
+      "description": "Step-by-step checklist to create a compelling LinkedIn profile that attracts recruiters.",
+      "link": "https://example.com/linkedin-optimization-checklist.pdf",
+      "items": "15 items",
+      "tags": ["LinkedIn", "Professional Branding", "Job Search"]
+    }
+  ],
+  "webinars": [
+    {
+      "id": 1,
+      "title": "Future of Work: Trends and Opportunities",
+      "description": "Join industry experts as they discuss emerging career opportunities and workplace trends for 2024.",
+      "link": "https://example.com/future-of-work-webinar",
+      "duration": "60 minutes",
+      "speaker": "Dr. Amanda Foster",
+      "date": "March 15, 2024",
+      "tags": ["Future of Work", "Career Trends", "Industry Insights"]
+    },
+    {
+      "id": 2,
+      "title": "Building Resilience in Your Career",
+      "description": "Learn strategies to bounce back from setbacks and build a resilient mindset for long-term success.",
+      "link": "https://example.com/career-resilience-webinar",
+      "duration": "45 minutes",
+      "speaker": "Marcus Thompson",
+      "date": "March 22, 2024",
+      "tags": ["Resilience", "Mental Health", "Career Development"]
+    },
+    {
+      "id": 3,
+      "title": "Entrepreneurship vs. Corporate Career",
+      "description": "Explore the pros and cons of entrepreneurship versus traditional corporate careers.",
+      "link": "https://example.com/entrepreneurship-webinar",
+      "duration": "75 minutes",
+      "speaker": "Lisa Chang & Robert Martinez",
+      "date": "March 29, 2024",
+      "tags": ["Entrepreneurship", "Career Paths", "Business"]
+    },
+    {
+      "id": 4,
+      "title": "AI and Automation: Impact on Careers",
+      "description": "Understand how AI and automation are reshaping careers and how to future-proof your skills.",
+      "link": "https://example.com/ai-careers-webinar",
+      "duration": "50 minutes",
+      "speaker": "Dr. Kevin Park",
+      "date": "April 5, 2024",
+      "tags": ["AI", "Automation", "Future Skills"]
+    }
+  ]
+}

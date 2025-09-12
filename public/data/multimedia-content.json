@@ -1,0 +1,136 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "title": "From Student to Software Engineer: My Journey",
+      "description": "A software engineer shares their complete journey from computer science student to landing their first job at a tech company.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "duration": "15:30",
+      "category": "job-roles",
+      "userType": ["student", "graduate"],
+      "tags": ["software-engineering", "tech", "career-transition"],
+      "speaker": "Sarah Chen",
+      "speakerTitle": "Senior Software Engineer at Google",
+      "transcript": "Hi everyone, I'm Sarah and I want to share my journey from being a confused computer science student to landing my dream job at Google. When I started college, I had no idea what software engineering actually involved..."
+    },
+    {
+      "id": "2",
+      "title": "Breaking Into Finance: Investment Banking Insights",
+      "description": "An investment banker discusses the realities of working in finance, including preparation tips and what to expect.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "duration": "22:45",
+      "category": "job-roles",
+      "userType": ["graduate", "professional"],
+      "tags": ["finance", "investment-banking", "career-advice"],
+      "speaker": "Michael Rodriguez",
+      "speakerTitle": "VP at Goldman Sachs",
+      "transcript": "The finance industry can seem intimidating from the outside, but I'm here to break down what it's really like working in investment banking..."
+    },
+    {
+      "id": "3",
+      "title": "Motivation Monday: Overcoming Career Setbacks",
+      "description": "Inspirational talk about bouncing back from career failures and using setbacks as stepping stones to success.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "duration": "12:15",
+      "category": "motivation",
+      "userType": ["student", "graduate", "professional"],
+      "tags": ["motivation", "resilience", "career-growth"],
+      "speaker": "Dr. Amanda Foster",
+      "speakerTitle": "Career Coach & Author",
+      "transcript": "Setbacks are not the end of your story - they're plot twists that make your success story even more compelling. Let me share how I turned my biggest career failure into my greatest opportunity..."
+    },
+    {
+      "id": "4",
+      "title": "Landing Your First Internship: A Complete Guide",
+      "description": "Step-by-step guide on how to find, apply for, and secure internships that will boost your career prospects.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "duration": "18:20",
+      "category": "internships",
+      "userType": ["student"],
+      "tags": ["internships", "applications", "networking"],
+      "speaker": "James Park",
+      "speakerTitle": "Talent Acquisition Manager at Microsoft",
+      "transcript": "Internships are your gateway to the professional world. Here's exactly how to stand out from thousands of other applicants and land that crucial first internship..."
+    },
+    {
+      "id": "5",
+      "title": "The Art of Career Pivoting: Changing Industries Successfully",
+      "description": "Learn how to successfully transition between different industries and leverage transferable skills.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "duration": "25:10",
+      "category": "career-change",
+      "userType": ["professional"],
+      "tags": ["career-change", "industry-transition", "skills"],
+      "speaker": "Lisa Thompson",
+      "speakerTitle": "Former Lawyer turned UX Designer",
+      "transcript": "I went from practicing law for 8 years to becoming a UX designer at a startup. Here's how I made the transition and what I learned along the way..."
+    },
+    {
+      "id": "6",
+      "title": "Medical School to Residency: What They Don't Tell You",
+      "description": "A resident doctor shares honest insights about medical training, work-life balance, and career expectations.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "duration": "20:35",
+      "category": "job-roles",
+      "userType": ["student", "graduate"],
+      "tags": ["medicine", "healthcare", "medical-school"],
+      "speaker": "Dr. Priya Patel",
+      "speakerTitle": "Internal Medicine Resident",
+      "transcript": "Medical school is just the beginning. Let me share what residency is really like and how to prepare mentally and emotionally for this challenging but rewarding journey..."
+    },
+    {
+      "id": "7",
+      "title": "Building Your Personal Brand as a Young Professional",
+      "description": "Learn how to establish and grow your professional presence both online and offline.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "duration": "16:45",
+      "category": "professional-development",
+      "userType": ["graduate", "professional"],
+      "tags": ["personal-branding", "networking", "social-media"],
+      "speaker": "Alex Kim",
+      "speakerTitle": "Marketing Director & Personal Brand Expert",
+      "transcript": "Your personal brand is your professional reputation. Here's how to build an authentic brand that opens doors and creates opportunities..."
+    },
+    {
+      "id": "8",
+      "title": "Entrepreneurship 101: From Idea to Startup",
+      "description": "An entrepreneur shares the journey of building a startup from scratch, including common pitfalls and key lessons.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "duration": "28:15",
+      "category": "entrepreneurship",
+      "userType": ["graduate", "professional"],
+      "tags": ["entrepreneurship", "startup", "business"],
+      "speaker": "David Chen",
+      "speakerTitle": "Founder & CEO of TechStart",
+      "transcript": "Starting a business is one of the most challenging yet rewarding experiences. Here's my honest account of building a tech startup from zero to acquisition..."
+    }
+  ],
+  "podcasts": [
+    {
+      "id": "p1",
+      "title": "The Future of Remote Work: Career Implications",
+      "description": "Discussion on how remote work is changing career trajectories and what professionals need to know.",
+      "audioUrl": "/audio/remote-work-future.mp3",
+      "duration": "35:20",
+      "category": "professional-development",
+      "userType": ["graduate", "professional"],
+      "tags": ["remote-work", "future-of-work", "career-trends"],
+      "speaker": "Panel Discussion",
+      "speakerTitle": "HR Leaders & Career Experts",
+      "transcript": "Remote work has fundamentally changed how we think about careers. In this panel discussion, we explore what this means for your professional development..."
+    },
+    {
+      "id": "p2",
+      "title": "Study Strategies That Actually Work",
+      "description": "Evidence-based study techniques that can help students excel academically and prepare for their careers.",
+      "audioUrl": "/audio/study-strategies.mp3",
+      "duration": "24:30",
+      "category": "academic-success",
+      "userType": ["student"],
+      "tags": ["study-tips", "academic-success", "learning"],
+      "speaker": "Dr. Rachel Green",
+      "speakerTitle": "Educational Psychologist",
+      "transcript": "Not all study methods are created equal. Let me share the scientifically-proven techniques that will maximize your learning and retention..."
+    }
+  ]
+}

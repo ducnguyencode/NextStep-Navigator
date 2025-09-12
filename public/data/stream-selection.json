@@ -1,0 +1,119 @@
+{
+  "title": "Stream Selection Guide (Post-10th)",
+  "description": "Comprehensive guide to help students choose the right academic stream after 10th grade",
+  "sections": [
+    {
+      "id": "science",
+      "title": "Science Stream",
+      "description": "For students interested in research, technology, and analytical thinking",
+      "subjects": ["Physics", "Chemistry", "Mathematics", "Biology"],
+      "careerPaths": [
+        "Engineering (B.Tech/B.E.)",
+        "Medical (MBBS/BDS)",
+        "Pure Sciences (B.Sc.)",
+        "Pharmacy (B.Pharm)",
+        "Architecture (B.Arch)",
+        "Biotechnology",
+        "Research & Development"
+      ],
+      "eligibility": "Minimum 60% in 10th grade with strong performance in Science and Mathematics",
+      "pros": [
+        "Wide range of career opportunities",
+        "High earning potential",
+        "Prestigious career options",
+        "Strong foundation for competitive exams"
+      ],
+      "cons": [
+        "Highly competitive",
+        "Requires strong analytical skills",
+        "Heavy study load",
+        "Pressure from family and society"
+      ]
+    },
+    {
+      "id": "commerce",
+      "title": "Commerce Stream",
+      "description": "Perfect for students interested in business, finance, and economics",
+      "subjects": ["Accountancy", "Business Studies", "Economics", "Mathematics"],
+      "careerPaths": [
+        "Chartered Accountancy (CA)",
+        "Company Secretary (CS)",
+        "Cost and Management Accountancy (CMA)",
+        "Bachelor of Commerce (B.Com)",
+        "Bachelor of Business Administration (BBA)",
+        "Banking and Finance",
+        "Digital Marketing"
+      ],
+      "eligibility": "Minimum 50% in 10th grade with good performance in Mathematics",
+      "pros": [
+        "Excellent job opportunities in corporate sector",
+        "Entrepreneurship opportunities",
+        "Good work-life balance",
+        "Diverse career options"
+      ],
+      "cons": [
+        "Limited scope compared to Science",
+        "Requires strong numerical skills",
+        "Market competition",
+        "Economic fluctuations affect job market"
+      ]
+    },
+    {
+      "id": "arts",
+      "title": "Arts/Humanities Stream",
+      "description": "Ideal for creative minds and those interested in social sciences",
+      "subjects": ["History", "Geography", "Political Science", "Psychology", "Sociology", "Literature"],
+      "careerPaths": [
+        "Civil Services (IAS/IPS)",
+        "Journalism and Mass Communication",
+        "Law (LLB)",
+        "Psychology",
+        "Social Work",
+        "Teaching and Education",
+        "Creative Writing and Content Creation"
+      ],
+      "eligibility": "Minimum 45% in 10th grade with good communication skills",
+      "pros": [
+        "Develops critical thinking",
+        "Flexible career options",
+        "Less competitive than Science",
+        "Encourages creativity"
+      ],
+      "cons": [
+        "Limited high-paying job options initially",
+        "Social stigma attached",
+        "Requires strong communication skills",
+        "Longer career establishment period"
+      ]
+    }
+  ],
+  "decisionFactors": [
+    {
+      "factor": "Interest and Passion",
+      "description": "Choose based on what genuinely interests you, not external pressure"
+    },
+    {
+      "factor": "Academic Performance",
+      "description": "Consider your strengths in different subjects"
+    },
+    {
+      "factor": "Career Goals",
+      "description": "Align your stream choice with long-term career aspirations"
+    },
+    {
+      "factor": "Market Demand",
+      "description": "Research current and future job market trends"
+    },
+    {
+      "factor": "Personal Skills",
+      "description": "Evaluate your natural abilities and talents"
+    }
+  ],
+  "tips": [
+    "Take career counseling sessions before making a decision",
+    "Talk to professionals in fields you're interested in",
+    "Consider your financial situation and family background",
+    "Don't follow friends blindly - make an informed choice",
+    "Remember that success is possible in any stream with dedication"
+  ]
+}

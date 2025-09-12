@@ -1,0 +1,127 @@
+{
+  "stories": [
+    {
+      "id": 1,
+      "name": "Priya Sharma",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "domain": "engineering",
+      "currentRole": "Senior Software Engineer at Google",
+      "journey": "Started as a curious student in rural Maharashtra, struggled with limited resources but never gave up. Self-taught programming through online courses, built 15+ projects, and landed her dream job at Google after 3 years of persistence.",
+      "keyMilestones": [
+        "Graduated from local engineering college",
+        "Self-learned web development",
+        "Interned at 3 startups",
+        "Joined Google as SDE-2"
+      ],
+      "inspiration": "\"Every line of code I wrote brought me closer to my dreams. The journey wasn't easy, but it was worth every struggle.\"",
+      "tags": ["Self-taught", "Rural background", "Tech giant", "Persistence"]
+    },
+    {
+      "id": 2,
+      "name": "Dr. Arjun Patel",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "domain": "medicine",
+      "currentRole": "Cardiac Surgeon at AIIMS Delhi",
+      "journey": "Son of a farmer who dreamed of saving lives. Studied under streetlights, worked part-time jobs to fund his education, and became one of India's youngest cardiac surgeons at 28.",
+      "keyMilestones": [
+        "Topped NEET with 99.8 percentile",
+        "MBBS from AIIMS Delhi",
+        "Specialized in Cardiothoracic Surgery",
+        "Performed 500+ successful surgeries"
+      ],
+      "inspiration": "\"Medicine chose me when I saw my grandfather struggle without proper healthcare. Every life I save honors his memory.\"",
+      "tags": ["Rural to urban", "Medical excellence", "Social impact", "Dedication"]
+    },
+    {
+      "id": 3,
+      "name": "Kavya Menon",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "domain": "arts",
+      "currentRole": "Contemporary Artist & Gallery Owner",
+      "journey": "Fought family pressure to pursue 'practical' careers. Started selling art on Instagram, built a following of 100K+, and now owns three art galleries across India while mentoring young artists.",
+      "keyMilestones": [
+        "Fine Arts degree from JJ School of Art",
+        "First solo exhibition at 22",
+        "Featured in international art fairs",
+        "Opened Menon Art Gallery chain"
+      ],
+      "inspiration": "\"Art isn't just my profession, it's my language. Through colors and canvas, I speak to souls across the world.\"",
+      "tags": ["Creative courage", "Social media success", "Entrepreneurship", "Mentorship"]
+    },
+    {
+      "id": 4,
+      "name": "Rohit Kumar",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "domain": "business",
+      "currentRole": "CEO & Founder of EcoTech Solutions",
+      "journey": "Started with a small tea stall business during college. Identified the gap in sustainable technology, bootstrapped his startup with ₹50,000, and built a ₹100 crore company in 5 years.",
+      "keyMilestones": [
+        "MBA from IIM Bangalore",
+        "Founded EcoTech with ₹50K",
+        "Raised ₹25 crores in Series A",
+        "Expanded to 5 countries"
+      ],
+      "inspiration": "\"Every problem is an opportunity in disguise. Sustainability isn't just business for me, it's our responsibility to the planet.\"",
+      "tags": ["Bootstrapped startup", "Sustainability", "Global expansion", "Innovation"]
+    },
+    {
+      "id": 5,
+      "name": "Ananya Singh",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "domain": "education",
+      "currentRole": "Principal & Education Reformer",
+      "journey": "Transformed a failing government school in Rajasthan into a model institution. Her innovative teaching methods increased student enrollment by 300% and achievement scores by 250%.",
+      "keyMilestones": [
+        "B.Ed from Delhi University",
+        "Started as primary teacher",
+        "Implemented digital learning",
+        "Won National Teacher Award"
+      ],
+      "inspiration": "\"Education is the most powerful weapon to change the world. Every child deserves a chance to dream and achieve.\"",
+      "tags": ["Social impact", "Education reform", "Rural development", "Innovation"]
+    },
+    {
+      "id": 6,
+      "name": "Vikram Reddy",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "domain": "science",
+      "currentRole": "Lead Research Scientist at ISRO",
+      "journey": "Fascinated by space since childhood, built rockets from scrap materials. Despite financial constraints, earned a PhD in Aerospace Engineering and now leads India's Mars mission projects.",
+      "keyMilestones": [
+        "PhD in Aerospace Engineering",
+        "Joined ISRO as Scientist",
+        "Led Chandrayaan-3 mission",
+        "Published 50+ research papers"
+      ],
+      "inspiration": "\"The sky is not the limit when there are footprints on the moon. Every calculation brings us closer to the stars.\"",
+      "tags": ["Space research", "Scientific excellence", "National pride", "Innovation"]
+    },
+    {
+      "id": 7,
+      "name": "Meera Joshi",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "domain": "finance",
+      "currentRole": "Investment Banking Director at Goldman Sachs",
+      "journey": "Broke gender stereotypes in finance. Started as a junior analyst, worked 80-hour weeks, mastered complex financial models, and became the youngest female director in her division.",
+      "keyMilestones": ["CA from ICAI", "MBA from Wharton", "Analyst at Goldman Sachs", "Promoted to Director at 29"],
+      "inspiration": "\"Numbers don't lie, and neither do results. In finance, your work speaks louder than any bias or stereotype.\"",
+      "tags": ["Gender equality", "Financial expertise", "Global finance", "Leadership"]
+    },
+    {
+      "id": 8,
+      "name": "Karan Malhotra",
+      "photo": "/placeholder.svg?height=300&width=300",
+      "domain": "sports",
+      "currentRole": "Olympic Coach & Sports Academy Director",
+      "journey": "Former national-level athlete who couldn't make it to Olympics due to injury. Channeled his passion into coaching and has trained 12 Olympic medalists in the last decade.",
+      "keyMilestones": [
+        "National level badminton player",
+        "Sports Science degree",
+        "Founded Malhotra Sports Academy",
+        "Coached 12 Olympic medalists"
+      ],
+      "inspiration": "\"My injury ended my Olympic dream, but it birthed the dreams of dozens of others. Success is about lifting others up.\"",
+      "tags": ["Sports excellence", "Coaching mastery", "Olympic success", "Resilience"]
+    }
+  ]
+}

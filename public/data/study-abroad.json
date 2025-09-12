@@ -1,0 +1,150 @@
+{
+  "title": "Study Abroad Guidelines",
+  "description": "Complete guide for students planning to pursue higher education internationally",
+  "sections": [
+    {
+      "id": "planning",
+      "title": "Planning Phase",
+      "steps": [
+        {
+          "step": "Research Destinations",
+          "description": "Compare countries based on education quality, cost, and career opportunities",
+          "details": [
+            "USA: World-class universities, diverse programs, high costs",
+            "UK: Shorter degree duration, prestigious institutions, moderate costs",
+            "Canada: Affordable education, immigration opportunities, multicultural",
+            "Australia: Quality education, work opportunities, pleasant climate",
+            "Germany: Low tuition fees, strong engineering programs, language barrier",
+            "Singapore: Asian hub, excellent facilities, competitive admission"
+          ]
+        },
+        {
+          "step": "Choose Program and University",
+          "description": "Select courses and institutions that align with your career goals",
+          "details": [
+            "Research university rankings and accreditation",
+            "Check program curriculum and faculty",
+            "Consider location and campus facilities",
+            "Evaluate alumni network and placement records",
+            "Compare tuition fees and living costs"
+          ]
+        },
+        {
+          "step": "Financial Planning",
+          "description": "Calculate total costs and explore funding options",
+          "details": [
+            "Tuition fees: $10,000 - $60,000 per year",
+            "Living expenses: $8,000 - $20,000 per year",
+            "Scholarships and grants opportunities",
+            "Education loans and financial aid",
+            "Part-time work regulations"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "application",
+      "title": "Application Process",
+      "steps": [
+        {
+          "step": "Standardized Tests",
+          "description": "Prepare for and take required entrance exams",
+          "details": [
+            "IELTS/TOEFL for English proficiency",
+            "GRE/GMAT for graduate programs",
+            "SAT/ACT for undergraduate programs",
+            "Subject-specific tests if required",
+            "Minimum score requirements vary by university"
+          ]
+        },
+        {
+          "step": "Documentation",
+          "description": "Prepare all required documents for application",
+          "details": [
+            "Academic transcripts and certificates",
+            "Statement of Purpose (SOP)",
+            "Letters of Recommendation (LOR)",
+            "Resume/CV",
+            "Portfolio (for creative programs)",
+            "Financial documents"
+          ]
+        },
+        {
+          "step": "Application Submission",
+          "description": "Submit applications through university portals or common applications",
+          "details": [
+            "Follow application deadlines strictly",
+            "Pay application fees",
+            "Track application status",
+            "Prepare for interviews if required",
+            "Apply to multiple universities"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "visa",
+      "title": "Visa Process",
+      "steps": [
+        {
+          "step": "Visa Application",
+          "description": "Apply for student visa after receiving admission",
+          "details": [
+            "F-1 visa for USA",
+            "Tier 4 visa for UK",
+            "Study permit for Canada",
+            "Student visa (subclass 500) for Australia",
+            "Student visa for Germany",
+            "Student pass for Singapore"
+          ]
+        },
+        {
+          "step": "Required Documents",
+          "description": "Gather all necessary documents for visa application",
+          "details": [
+            "Valid passport",
+            "Admission letter from university",
+            "Financial proof (bank statements, sponsorship)",
+            "Academic documents",
+            "Medical examination reports",
+            "Visa application form and fees"
+          ]
+        }
+      ]
+    }
+  ],
+  "scholarships": [
+    {
+      "name": "Fulbright Scholarship",
+      "country": "USA",
+      "description": "Merit-based scholarship for graduate studies",
+      "coverage": "Full tuition, living expenses, and travel"
+    },
+    {
+      "name": "Chevening Scholarship",
+      "country": "UK",
+      "description": "UK government scholarship for master's degree",
+      "coverage": "Full tuition, living allowance, and travel"
+    },
+    {
+      "name": "Vanier Canada Graduate Scholarships",
+      "country": "Canada",
+      "description": "For doctoral students in Canadian universities",
+      "coverage": "$50,000 per year for 3 years"
+    },
+    {
+      "name": "Australia Awards",
+      "country": "Australia",
+      "description": "Government scholarship for developing countries",
+      "coverage": "Full tuition, living expenses, and health insurance"
+    }
+  ],
+  "tips": [
+    "Start planning at least 12-18 months in advance",
+    "Maintain good academic records throughout",
+    "Gain relevant work experience and extracurricular activities",
+    "Learn the local language if studying in non-English speaking countries",
+    "Connect with alumni and current students for insights",
+    "Consider cultural differences and adaptation challenges"
+  ]
+}

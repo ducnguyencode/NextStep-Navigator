@@ -1,0 +1,207 @@
+{
+  "title": "Resume Guidelines for Graduates and Professionals",
+  "description": "Complete guide to creating compelling resumes that get you noticed",
+  "sections": [
+    {
+      "id": "structure",
+      "title": "Resume Structure",
+      "components": [
+        {
+          "section": "Header",
+          "description": "Your contact information and professional identity",
+          "elements": [
+            "Full name (larger font)",
+            "Professional email address",
+            "Phone number",
+            "LinkedIn profile URL",
+            "City, State (no need for full address)",
+            "Portfolio/website URL (if relevant)"
+          ],
+          "tips": [
+            "Use a professional email address",
+            "Ensure LinkedIn profile is updated",
+            "Include only relevant social media links"
+          ]
+        },
+        {
+          "section": "Professional Summary",
+          "description": "2-3 line summary of your professional profile",
+          "elements": ["Years of experience", "Key skills and expertise", "Career achievements", "Value proposition"],
+          "tips": [
+            "Tailor to each job application",
+            "Use keywords from job description",
+            "Quantify achievements where possible"
+          ]
+        },
+        {
+          "section": "Work Experience",
+          "description": "Your professional work history in reverse chronological order",
+          "elements": [
+            "Job title",
+            "Company name and location",
+            "Employment dates",
+            "Key responsibilities and achievements",
+            "Quantified results and impact"
+          ],
+          "tips": [
+            "Use action verbs to start bullet points",
+            "Focus on achievements, not just duties",
+            "Include relevant internships and projects"
+          ]
+        },
+        {
+          "section": "Education",
+          "description": "Your academic qualifications",
+          "elements": [
+            "Degree type and major",
+            "University name and location",
+            "Graduation date",
+            "GPA (if 3.5 or higher)",
+            "Relevant coursework, honors, awards"
+          ],
+          "tips": ["List most recent degree first", "Include relevant certifications", "Mention academic achievements"]
+        },
+        {
+          "section": "Skills",
+          "description": "Technical and soft skills relevant to the role",
+          "elements": [
+            "Technical skills",
+            "Programming languages",
+            "Software proficiency",
+            "Language skills",
+            "Industry-specific skills"
+          ],
+          "tips": ["Categorize skills logically", "Include proficiency levels", "Match skills to job requirements"]
+        }
+      ]
+    },
+    {
+      "id": "formatting",
+      "title": "Formatting Guidelines",
+      "rules": [
+        {
+          "aspect": "Length",
+          "guideline": "1-2 pages maximum",
+          "details": [
+            "1 page for entry-level positions",
+            "2 pages for experienced professionals",
+            "Never exceed 2 pages",
+            "Use space efficiently"
+          ]
+        },
+        {
+          "aspect": "Font and Typography",
+          "guideline": "Clean, professional fonts",
+          "details": [
+            "Use fonts like Arial, Calibri, or Times New Roman",
+            "Font size: 10-12 points for body text",
+            "Font size: 14-16 points for name",
+            "Consistent formatting throughout"
+          ]
+        },
+        {
+          "aspect": "Layout",
+          "guideline": "Clean, organized layout",
+          "details": [
+            "Use consistent margins (0.5-1 inch)",
+            "Adequate white space",
+            "Clear section headings",
+            "Bullet points for easy reading",
+            "Consistent alignment"
+          ]
+        },
+        {
+          "aspect": "File Format",
+          "guideline": "PDF format preferred",
+          "details": [
+            "Maintains formatting across devices",
+            "Professional appearance",
+            "Easy to open and print",
+            "Name file professionally: FirstName_LastName_Resume.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "content",
+      "title": "Content Guidelines",
+      "tips": [
+        {
+          "category": "Action Verbs",
+          "title": "Use Strong Action Verbs",
+          "examples": [
+            "Achieved, Analyzed, Built, Created, Developed",
+            "Enhanced, Implemented, Improved, Led, Managed",
+            "Optimized, Organized, Resolved, Streamlined, Transformed"
+          ]
+        },
+        {
+          "category": "Quantification",
+          "title": "Quantify Your Achievements",
+          "examples": [
+            "Increased sales by 25% in 6 months",
+            "Managed a team of 10 developers",
+            "Reduced processing time by 40%",
+            "Generated $500K in new revenue",
+            "Improved customer satisfaction by 30%"
+          ]
+        },
+        {
+          "category": "Keywords",
+          "title": "Include Relevant Keywords",
+          "examples": [
+            "Use keywords from job description",
+            "Include industry-specific terms",
+            "Add relevant technical skills",
+            "Mention software and tools",
+            "Include certifications and methodologies"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "types",
+      "title": "Resume Types",
+      "formats": [
+        {
+          "type": "Chronological Resume",
+          "description": "Lists work experience in reverse chronological order",
+          "bestFor": ["Consistent work history", "Career progression in same field", "Traditional industries"],
+          "pros": ["Easy to follow career progression", "Preferred by most employers", "Highlights career growth"]
+        },
+        {
+          "type": "Functional Resume",
+          "description": "Focuses on skills and abilities rather than work history",
+          "bestFor": ["Career changers", "Employment gaps", "Entry-level candidates"],
+          "pros": ["Highlights relevant skills", "Downplays employment gaps", "Good for career transitions"]
+        },
+        {
+          "type": "Combination Resume",
+          "description": "Combines elements of chronological and functional formats",
+          "bestFor": ["Experienced professionals", "Multiple skill sets", "Diverse experience"],
+          "pros": ["Showcases both skills and experience", "Flexible format", "Comprehensive overview"]
+        }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    "Including irrelevant personal information",
+    "Using unprofessional email addresses",
+    "Having spelling and grammar errors",
+    "Making the resume too long or too short",
+    "Using generic, one-size-fits-all resumes",
+    "Including outdated or irrelevant experience",
+    "Poor formatting and inconsistent styling",
+    "Lying or exaggerating achievements"
+  ],
+  "checklist": [
+    "Contact information is current and professional",
+    "Resume is tailored to the specific job",
+    "All spelling and grammar is correct",
+    "Formatting is consistent throughout",
+    "Achievements are quantified where possible",
+    "Keywords from job description are included",
+    "File is saved as PDF with professional name",
+    "Resume is 1-2 pages maximum"
+  ]
+}
