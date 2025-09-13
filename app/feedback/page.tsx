@@ -75,9 +75,7 @@ export default function FeedbackPage() {
             {/* Logo */}
             <div className="flex items-center justify-center md:justify-start gap-2">
               <div className="w-10 h-10 md:w-12 md:h-12 bg-primary brutalist-shadow-sm flex items-center justify-center">
-                <span className="text-xl md:text-2xl font-black text-primary-foreground">
-                  CP
-                </span>
+               <img src="dist/images/image_logo.png" alt="" height={50} width={50} className="w-10 h-10 md:w-12 md:h-12 bg-primary brutalist-shadow-sm flex items-center justify-center" height={50} />
               </div>
               <span className="text-lg md:text-xl font-black text-foreground">
                 CAREER PASSPORT

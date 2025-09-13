@@ -5,6 +5,7 @@ import { Card } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
+import { url } from "inspector";
 
 export default function ContactUs() {
   const [formData, setFormData] = useState({
@@ -92,13 +93,13 @@ export default function ContactUs() {
                         Office Address
                       </h3>
                       <p className="text-sm md:text-base font-semibold text-muted-foreground leading-relaxed">
-                        Career Passport Headquarters
+                      35/6 D5 Street , Ward 25
                         <br />
-                        123 Education Street, Suite 456
+                         Binh Thanh District
                         <br />
-                        Knowledge City, KC 12345
+                        Ho Chi Minh 72308
                         <br />
-                        United States
+                        Vietnam
                       </p>
                     </div>
                   </div>
@@ -115,9 +116,9 @@ export default function ContactUs() {
                         Phone
                       </h3>
                       <p className="text-sm md:text-base font-semibold text-muted-foreground">
-                        +1 (555) 123-CAREER
+                        +84 (0) 123 456 789
                         <br />
-                        +1 (555) 123-2273
+                        +84 (0) 987 654 321
                       </p>
                     </div>
                   </div>
@@ -134,9 +135,9 @@ export default function ContactUs() {
                         Email
                       </h3>
                       <p className="text-sm md:text-base font-semibold text-muted-foreground">
-                        info@careerpassport.com
+                      huynhducnguyenht@careerpassport.com
                         <br />
-                        support@careerpassport.com
+                      nhuttran12102000@careerpassport.com
                       </p>
                     </div>
                   </div>
@@ -171,7 +172,7 @@ export default function ContactUs() {
                 </h3>
                 <div className="w-full h-64 md:h-80 bg-muted border-2 border-foreground brutalist-shadow-sm overflow-hidden">
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.9663095343008!2d-74.00425878459418!3d40.74844097932681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259bf5c1654f3%3A0xc80f9cfce5383d5d!2sGoogle!5e0!3m2!1sen!2sus!4v1635959542834!5m2!1sen!2sus"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4868.2078431769605!2d106.71161967591799!3d10.806685889343976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529ed00409f09%3A0x11f7708a5c77d777!2zQXB0ZWNoIENvbXB1dGVyIEVkdWNhdGlvbiAtIEjhu4cgVGjhu5FuZyDEkMOgbyB04bqhbyBM4bqtcCBUcsOsbmggVmnDqm4gUXXhu5FjIHThur8gQXB0ZWNo!5e1!3m2!1sen!2sus!4v1757684440313!5m2!1sen!2sus"
                     width="100%"
                     height="100%"
                     style={{ border: 0 }}
@@ -179,7 +180,7 @@ export default function ContactUs() {
                     loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"
                     title="Career Passport Office Location"
-                  />
+                  ></iframe>
                 </div>
               </Card>
             </div>
@@ -292,22 +293,32 @@ export default function ContactUs() {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
             {[
               {
-                name: "Dr. Sarah Johnson",
+                name: "DR.Chen",
                 role: "Career Development Director",
-                email: "sarah@careerpassport.com",
-                phone: "+1 (555) 123-4567",
+                email: "huynhducnguyenht@careerpassport.com",
+                phone: "+84 123 456 789",
+                image: "dist/images/photo-1507003211169-0a1dd7228f2d.jpg",
               },
               {
-                name: "Michael Chen",
-                role: "Student Guidance Counselor",
-                email: "michael@careerpassport.com",
-                phone: "+1 (555) 123-4568",
+                name: "Mr.Smith",
+                role: "Career Counsellor",
+                email: "KhangNguyen@careerpassport.com",
+                phone: "+84 123 456 854",
+                image: "dist/images/photo-1472099645785-5658abf4ff4e.jpg",
               },
               {
-                name: "Emily Rodriguez",
+                name: "Mr.Patten",
                 role: "Professional Development Coach",
-                email: "emily@careerpassport.com",
-                phone: "+1 (555) 123-4569",
+                email: "apten@careerpassport.com",
+                phone: "+84 123 445 789",
+                image:"dist/images/photo-1580489944761-15a19d654956.jpg",
+              },
+              {
+                name: "Mr.khan",
+                role: "Career Counsellor",
+                email: "KhoaNguyen@careerpassport.com",
+                phone: "+84 123 456 789",
+                image: "dist/images/photo-1500648767791-00dcc994a43e.jpg",
               },
             ].map((member, index) => (
               <Card
@@ -315,21 +326,32 @@ export default function ContactUs() {
                 className="p-6 brutalist-shadow border-4 border-foreground bg-card text-center animate-slide-up"
                 style={{ animationDelay: `${index * 0.1}s` }}
               >
-                <div className="w-20 h-20 bg-accent brutalist-shadow-sm mx-auto mb-4 flex items-center justify-center">
-                  <span className="text-2xl font-black text-accent-foreground">
-                    👤
-                  </span>
-                </div>
-                <h3 className="text-lg font-black text-foreground mb-2">
-                  {member.name}
-                </h3>
-                <p className="text-sm font-bold text-accent mb-4">
-                  {member.role}
-                </p>
-                <div className="space-y-2 text-xs font-semibold text-muted-foreground">
-                  <p>{member.email}</p>
-                  <p>{member.phone}</p>
-                </div>
+                 <div className="w-20 h-20 bg-accent brutalist-shadow sm:mx-auto mb-4 flex items-center justify-center rounded-full overflow-hidden">
+        
+        
+{member.image ? (
+            <img 
+                src={member.image} 
+                alt={member.name} 
+                className="w-full h-full object-cover" 
+            />
+        ) : (
+           
+            <span className="text-2xl font-black text-accent-foreground">👤</span>
+        )}
+        
+    </div>
+
+    <h3 className="text-lg font-black text-foreground mb-2">
+        {member.name}
+    </h3>
+    <p className="text-sm font-bold text-accent mb-4">
+        {member.role}
+    </p>
+    <div className="space-y-2 text-xs font-semibold text-muted-foreground">
+        <p>{member.email}</p>
+        <p>{member.phone}</p>
+    </div>
               </Card>
             ))}
           </div>
