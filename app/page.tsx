@@ -10,6 +10,8 @@ type UserType = "student" | "graduate" | "professional" | null;
 
 interface UserData {
   name: string;
+  email: string;
+  contact: string;
   type: UserType;
 }
 
@@ -192,7 +194,12 @@ const userTypeConfig = {
 };
 
 export default function CareerPassportLanding() {
-  const [userData, setUserData] = useState<UserData>({ name: "", type: null });
+  const [userData, setUserData] = useState<UserData>({
+    name: "",
+    email: "",
+    contact: "",
+    type: null,
+  });
   const [showContent, setShowContent] = useState(false);
   const [visitorStats, setVisitorStats] = useState<VisitorStats>({
     count: 0,
@@ -266,7 +273,7 @@ export default function CareerPassportLanding() {
   };
 
   const resetForm = () => {
-    setUserData({ name: "", type: null });
+    setUserData({ name: "", email: "", contact: "", type: null });
     setShowContent(false);
   };
 
@@ -465,6 +472,44 @@ export default function CareerPassportLanding() {
                     }
                     className="border-2 border-foreground text-base md:text-lg p-3 md:p-4 font-semibold"
                     required
+                  />
+                </div>
+
+                <div className="space-y-2">
+                  <Label
+                    htmlFor="email"
+                    className="text-base md:text-lg font-bold text-foreground"
+                  >
+                    What's your email?
+                  </Label>
+                  <Input
+                    id="email"
+                    type="email"
+                    placeholder="Enter your email"
+                    value={userData.email}
+                    onChange={(e) =>
+                      setUserData({ ...userData, email: e.target.value })
+                    }
+                    className="border-2 border-foreground text-base md:text-lg p-3 md:p-4 font-semibold"
+                  />
+                </div>
+
+                <div className="space-y-2">
+                  <Label
+                    htmlFor="contact"
+                    className="text-base md:text-lg font-bold text-foreground"
+                  >
+                    What's your contact?
+                  </Label>
+                  <Input
+                    id="contact"
+                    type="tel"
+                    placeholder="Enter your contact"
+                    value={userData.contact}
+                    onChange={(e) =>
+                      setUserData({ ...userData, contact: e.target.value })
+                    }
+                    className="border-2 border-foreground text-base md:text-lg p-3 md:p-4 font-semibold"
                   />
                 </div>
 

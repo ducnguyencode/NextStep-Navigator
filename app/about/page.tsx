@@ -215,23 +215,26 @@ export default function AboutUs() {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
             {[
               {
-                name: "Dr. Sarah Johnson",
-                role: "CEO & Founder",
+                name: "Dr. Nhut Tran",
+                role: "Head of Content",
                 bio: "Former university career counselor with 15+ years of experience in student development",
                 expertise: "Career Development, Educational Psychology",
+                image: "/about-01.jpg",
               },
               {
-                name: "Michael Chen",
+                name: "Khang Nguyen",
                 role: "CTO & Co-Founder",
                 bio: "Tech industry veteran who transitioned from software engineering to education technology",
                 expertise: "EdTech, AI/ML, Platform Development",
+                image: "/about-02.jpg",
               },
               {
-                name: "Emily Rodriguez",
-                role: "Head of Content",
+                name: "Duc Nguyen",
+                role: "CEO & Founder",
                 bio: "Career coach and content strategist specializing in professional development resources",
                 expertise:
                   "Content Strategy, Career Coaching, Industry Research",
+                image: "/about-03.jpg",
               },
             ].map((member, index) => (
               <Card
@@ -240,11 +243,11 @@ export default function AboutUs() {
                 style={{ animationDelay: `${index * 0.1}s` }}
               >
                 <div className="text-center mb-4">
-                  <div className="w-20 h-20 bg-accent brutalist-shadow-sm mx-auto mb-4 flex items-center justify-center">
-                    <span className="text-2xl font-black text-accent-foreground">
-                      👤
-                    </span>
-                  </div>
+                  <img
+                    src={member.image}
+                    alt={`${member.name} headshot`}
+                    className="w-20 h-20 rounded-full object-cover mx-auto mb-4 border-4 border-foreground brutalist-shadow-sm"
+                  />
                   <h3 className="text-lg font-black text-foreground mb-1">
                     {member.name}
                   </h3>
